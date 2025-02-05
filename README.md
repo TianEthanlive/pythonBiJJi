@@ -1,7 +1,3 @@
-My own study routine will be constantly updated.
-If there is a shortcoming, I hope to coach.
+It's my daily learning; if there is a shortcoming, please tell me how to correct it.
 
-Мой собственный распорядок обучения будет постоянно обновляться.
-Если будет недостаток, надеюсь тренировать.
-
-我自己的学习习惯会不断更新。 如果有不足，我希望成为教练。
+这是我每天的学习;如果有不足，请告诉我如何纠正。
