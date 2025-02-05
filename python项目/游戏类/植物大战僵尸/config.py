@@ -1,9 +1,0 @@
-# config.py
-SCREEN_WIDTH = 800
-SCREEN_HEIGHT = 600
-FPS = 60
-GRID_SIZE = 80  # 每个格子的大小
-PLANT_SPACE_X = 150 # 植物种植起始位置 x
-PLANT_SPACE_Y = 100 # 植物种植起始位置 y
-ZOMBIE_START_X = SCREEN_WIDTH
-ZOMBIE_START_Y = 100
