@@ -1,0 +1,6 @@
+# one = float(input('输入第一个数：'))
+# two = float(input('输入第二个数：'))
+# print(one / two)
+# print(type(one))
+flag = float(False)
+print (flag)
